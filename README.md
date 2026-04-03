@@ -4,8 +4,6 @@
 > **"Turning technical ambition into operational reality."**
 
 ---
-
-### 🚀 The 0-to-1 Narrative
 I am a **Technical Lead** specializing in the deployment of frontier technology across emerging markets. My career arc spans the transition from hardware: launching **East Africa’s first electric vehicle (the Kiira EV)** to architecting digital infrastructure for **climate science and regional banking**.
 
 With a **First Class Honours in Actuarial Science**, I combine mathematical rigor with product grit to manage roadmaps; I build the feasibility frameworks and structural PRDs that allow engineering teams to scale complex systems safely.
