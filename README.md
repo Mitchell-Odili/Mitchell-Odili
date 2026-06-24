@@ -12,21 +12,23 @@ With a **First Class Honours in Actuarial Science**, I combine mathematical rigo
 
 ### 🛠 Technical Mastery & Depth
 * **Strategic Architecture:** National AI Governance (Rwanda $7.5M Scaling Hub), Global Systems Feasibility (NDC Partnership, 130+ countries).
+* **Agentic AI Infrastructure:** Built [FloodPulse](https://github.com/Mitchell-Odili/floodpulse-nairobi/tree/main): a multi-agent resilience system using Google's Agent Development Kit (ADK), Cloud Spanner graph orchestration, and MCP tool-calling.
 * **Data Integrity & AI/ML:** End-to-end development of `measuringcarbon` (Equitech Futures), approved by **NASA’s OCO-2 Deputy Chief Project Scientist**.
-* **Operational Scale:** Managed distributed engineering teams of 70+, and advised CEOs of firms with up to **$50M ARR** on market entry and regulatory compliance.
+* **Cross-Functional Leadership:** Served as Product Owner for a 70-person distributed engineering team across a 10-week Omdena partnership, and advised CEOs of firms with up to **$50M ARR** on market entry and regulatory compliance
 
 ---
 
 ### 📊 Professional Foundation
 * **BSc Actuarial Science** (First Class Honours)
 * **Progressed through IFoA Core Principles** (UK)
-* **Core Competencies:** Technical Roadmapping • AI/ML Deployment • Systems Reliability • Risk Mitigation • Product Strategy
+* **Core Competencies:** Technical Roadmapping • Agentic AI Deployment • Systems Reliability • Risk Mitigation • Product Strategy
 
 ---
 
 ### 🌐 Impact Highlights
 | Project | Role | Outcome |
 | :--- | :--- | :--- |
+| **FloodPulse** | Personal Project | Multi-agent flood resilience system using ADK, Cloud Spanner, and MCP |
 | **Rwanda AI Scaling Hub** | Data Consultant | $7.5M deployment strategy for Health & Ag |
 | **NDCP SU** | Data Consultant | Roadmap & PRD structure for RAG & GenAI Tagging to support 130+ countries | 
 | **MeasuringCarbon** | Technical Product Lead | Cut satellite data analysis from weeks to minutes |
