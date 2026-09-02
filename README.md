@@ -1,42 +1,66 @@
 # Mitchell Odili | Technical Product & Program Lead
-### AI/ML 0-to-1 Operations 
 
-> **"Turning technical ambition into operational reality."**
+### AI/ML 0→1 | Strategy • Architecture • Deployment • Operations
 
----
-I am a **Technical Lead** specializing in the deployment of frontier technology across emerging markets. My career arc spans the transition from hardware: launching **East Africa’s first electric vehicle (the Kiira EV)** to architecting digital infrastructure for **climate science and regional banking**.
-
-With a **First Class Honours in Actuarial Science**, I combine mathematical rigor with product grit to manage roadmaps; I build the feasibility frameworks and structural PRDs that allow engineering teams to scale complex systems safely.
+> **Turning technical ambition into operational reality.**
 
 ---
 
-### 🛠 Technical Mastery & Depth
-* **Strategic Architecture:** National AI Governance (Rwanda $7.5M Scaling Hub), Global Systems Feasibility (NDC Partnership, 130+ countries).
-* **Agentic AI Infrastructure:** Built [FloodPulse](https://github.com/Mitchell-Odili/floodpulse-nairobi/tree/main): a multi-agent resilience system using Google's Agent Development Kit (ADK), Cloud Spanner graph orchestration, and MCP tool-calling.
-* **Data Integrity & AI/ML:** End-to-end development of `measuringcarbon` (Equitech Futures), approved by **NASA’s OCO-2 Deputy Chief Project Scientist**.
-* **Cross-Functional Leadership:** Served as Product Owner for a 70-person distributed engineering team across a 10-week Omdena partnership, and advised CEOs of firms with up to **$50M ARR** on market entry and regulatory compliance
+I am a **Technical Product & Program Lead** focused on taking complex AI/ML initiatives from **0→1**—translating ambiguous problems into technical strategy, product roadmaps, architecture, and deployable systems.
+
+My career spans **AI/ML, digital infrastructure, financial services, climate technology, and emerging markets**. I work across the full lifecycle: from feasibility and product definition through technical architecture, implementation, governance, and operationalization.
+
+With a **First Class Honours degree in Actuarial Science**, I bring mathematical and risk-based thinking to technical product decisions, particularly where **reliability, governance, and real-world constraints** matter.
 
 ---
 
-### 📊 Professional Foundation
-* **BSc Actuarial Science** (First Class Honours)
-* **Progressed through IFoA Core Principles** (UK)
-* **Core Competencies:** Technical Roadmapping • Agentic AI Deployment • Systems Reliability • Risk Mitigation • Product Strategy
+### 🛠 Technical Product & AI Systems
+
+* **AI/ML 0→1:** Translate ambiguous problems into product requirements, technical roadmaps, feasibility frameworks, and deployable AI systems.
+* **High-Stakes AI Systems:** Built [CrediSync](https://github.com/Mitchell-Odili/credisync-underwriting), a multi-agent credit underwriting platform using ADK, Gemini, A2A, Cloud Run, Spanner, BigQuery, and Model Armor, with durable state and deterministic risk controls.
+* **Agentic AI Product Architecture:** Built [FloodPulse](https://github.com/Mitchell-Odili/floodpulse-nairobi), a multi-agent flood resilience system using Google's Agent Development Kit (ADK), Cloud Spanner graph orchestration, and MCP tool-calling.
+* **AI Governance & Deployment:** Developed AI implementation roadmaps, technical audits, feasibility assessments, evaluation frameworks, and PRD structures for organizations operating across **130+ countries**.
+* **Data & Scientific Systems:** Led end-to-end development of `measuringcarbon`, translating satellite climate data into an operational analytics platform and reducing analysis timelines from **weeks to minutes**.
+* **Cross-Functional Leadership:** Served as Product Owner for a **70-person distributed engineering team** and advised CEOs of firms with up to **$50M ARR** on market entry, product strategy, and regulatory compliance.
 
 ---
 
-### 🌐 Impact Highlights
-| Project | Role | Outcome |
-| :--- | :--- | :--- |
-| **FloodPulse** | Personal Project | Multi-agent flood resilience system using ADK, Cloud Spanner, and MCP |
-| **Rwanda AI Scaling Hub** | Data Consultant | $7.5M deployment strategy for Health & Ag |
-| **NDCP SU** | Data Consultant | Roadmap & PRD structure for RAG & GenAI Tagging to support 130+ countries | 
-| **MeasuringCarbon** | Technical Product Lead | Cut satellite data analysis from weeks to minutes |
-| **Gates Foundation** | AI Strategy Designer | 5-year roadmap for financial inclusion across 9 geographies |
-| **Co-op Bank** | Data Integrity Lead | 100% accuracy in parallel system data migration |
+### 🌍 Selected Impact
+
+| Project                          | Role                             | Impact                                                                                                             |
+| :------------------------------- | :------------------------------- | :----------------------------------------------------------------------------------------------------------------- |
+| **CrediSync**                    | Builder / Technical Product Lead | Multi-agent credit underwriting architecture with A2A, Model Armor, durable state, and deterministic risk controls |
+| **FloodPulse**                   | Builder / Technical Product Lead | Multi-agent flood resilience system using ADK, Cloud Spanner, and MCP                                              |
+| **Rwanda AI Scaling Hub**        | Data Consultant                  | Supported operationalization of a **$7.5M AI scaling initiative** across Health & Agriculture                      |
+| **NDC Partnership Support Unit** | Data Consultant                  | AI feasibility, technical audit, roadmap, and PRD structures supporting work across **130+ countries**             |
+| **MeasuringCarbon**              | Technical Product Lead           | Reduced satellite data analysis from **weeks to minutes**                                                          |
+| **Gates Foundation IFS**         | AI Strategy Designer             | Co-designed a **5-year AI integration roadmap across 9 geographies**                                               |
+| **Co-op Bank**                   | Data Integrity Lead              | Delivered **100% accuracy** in parallel-system data migration                                                      |
 
 ---
 
-### 📫 Connect with me
-* **LinkedIn:** [Mitchell Odili](https://www.linkedin.com/in/mitchell-odili-70b3a985/)
-* **Focus:** AI Infrastructure, Product Operations, Emerging Markets.
+### 🧠 Core Capabilities
+
+**Technical Product:** Product Strategy • PRDs • Technical Roadmapping • 0→1 Product Development • Feasibility & Trade-off Analysis
+
+**AI/ML:** Agentic AI • Generative AI • AI Evaluation • AI Governance • Responsible AI • ML Systems
+
+**Technical Program:** Cross-Functional Leadership • Systems Architecture • Delivery Planning • Risk Management • Operationalization
+
+**Cloud & Systems:** Google Cloud • Cloud Run • Spanner • BigQuery • Distributed Systems • API Integration
+
+---
+
+### 🎓 Professional Foundation
+
+* **BSc Actuarial Science — First Class Honours**
+* **IFoA (UK) — Core Principles progression**
+* **Member, IFoA Risk Management Board — Climate & Sustainability Working Party**
+
+---
+
+### 📫 Connect
+
+**LinkedIn:** [Mitchell Odili](https://www.linkedin.com/in/mitchell-odili-70b3a985/)
+
+**Focus:** AI Product & Program Leadership • AI/ML 0→1 • Technical Strategy • Agentic AI • Emerging Markets
