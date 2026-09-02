@@ -20,7 +20,7 @@ With a **First Class Honours degree in Actuarial Science**, I bring mathematical
 * **High-Stakes AI Systems:** Built [CrediSync](https://github.com/Mitchell-Odili/credisync-underwriting), a multi-agent credit underwriting platform using ADK, Gemini, A2A, Cloud Run, Spanner, BigQuery, and Model Armor, with durable state and deterministic risk controls.
 * **Agentic AI Product Architecture:** Built [FloodPulse](https://github.com/Mitchell-Odili/floodpulse-nairobi), a multi-agent flood resilience system using Google's Agent Development Kit (ADK), Cloud Spanner graph orchestration, and MCP tool-calling.
 * **AI Governance & Deployment:** Developed AI implementation roadmaps, technical audits, feasibility assessments, evaluation frameworks, and PRD structures for organizations operating across **130+ countries**.
-* **Data & Scientific Systems:** Led end-to-end development of `measuringcarbon`, translating satellite climate data into an operational analytics platform and reducing analysis timelines from **weeks to minutes**.
+* **Data & Scientific Systems:** Led end-to-end development of [`measuringcarbon`](https://www.measuringcarbon.com/), translating satellite climate data into an operational analytics platform and reducing analysis timelines from **weeks to minutes**.
 * **Cross-Functional Leadership:** Served as Product Owner for a **70-person distributed engineering team** and advised CEOs of firms with up to **$50M ARR** on market entry, product strategy, and regulatory compliance.
 
 ---
